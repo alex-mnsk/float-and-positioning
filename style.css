@@ -16,8 +16,7 @@ body {
   width: 563px;
   height: 787px;
   position: relative;
-  margin:200px 0 0 50%;
-  left: -260px;
+  margin:200px auto;
 }
 
 .page-1 {
@@ -127,8 +126,7 @@ footer {
   width: 520px;
   background-color: #cccccc;
   position: absolute;
-  margin:20px 0 0 50%;
-  left: -260px;
+  margin:20px;
   border: 2px solid black;
 }
 
